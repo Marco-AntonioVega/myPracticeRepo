@@ -3,12 +3,12 @@ public class ApplicationMain {
 		String[] shopList = new String[] {
 				"Apples",
 				"Bananas",
-				"Corn",
+				"Cucumbers",
 				"Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Low Fat Milk"
 		};
 		for (String item: shopList) {
 			System.out.println(item);
